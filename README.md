@@ -24,3 +24,5 @@ Download the Geckodriver
 Copy the gecko-driver to `env/bin/`
 
 
+## Install Jupyter
+`pip install jupyter`
