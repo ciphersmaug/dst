@@ -26,3 +26,8 @@ Copy the gecko-driver to `env/bin/`
 
 ## Install Jupyter
 `pip install jupyter`
+
+
+## Exercise specifics
+`pip install bs4`
+`pip install pandas`
