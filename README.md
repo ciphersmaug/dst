@@ -31,3 +31,4 @@ Copy the gecko-driver to `env/bin/`
 ## Exercise specifics
 `pip install bs4`
 `pip install pandas`
+`pip install matplotlib`
