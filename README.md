@@ -32,3 +32,4 @@ Copy the gecko-driver to `env/bin/`
 `pip install bs4`
 `pip install pandas`
 `pip install matplotlib`
+`pip install openpyxl`
